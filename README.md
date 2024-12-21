@@ -3,6 +3,10 @@
 ## Project Overview
 The Elephant Detection System in Sri Lanka aims to identify and track elephant movements in real-time, providing a reliable and efficient solution to mitigate human-elephant conflict. Using advanced technologies like computer vision, machine learning, and AI, this system helps to monitor elephants' behavior and alert local authorities to ensure the safety of both humans and elephants.
 
+
+
+
+
 ## Features
 - **Real-time Detection**: Detect elephants in images and video feeds in real time.
 - **Alert System**: Send alerts to authorities when an elephant is detected near human settlements or critical areas.
