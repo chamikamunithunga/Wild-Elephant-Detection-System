@@ -13,6 +13,8 @@ The Elephant Detection System in Sri Lanka aims to identify and track elephant m
 - **Tracking**: Track elephant movements and monitor their activity patterns.
 - **Data Collection**: Collect data on elephant population and movement to aid conservation efforts.
 
+
+
 ## Technologies Used
 - **Python**: Core programming language.
 - **OpenCV**: For image and video processing.
